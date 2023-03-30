@@ -1,0 +1,18 @@
+nav a{
+  text-decoration: none;
+}
+
+nav ul li{
+  display: inline-block;
+}
+
+nav{
+  background-color: #c9d2c5;
+  padding: 10px;
+}
+
+header{
+  background-color: #9ada7f;
+  padding-left: 2px;
+  padding: 5px;
+}
